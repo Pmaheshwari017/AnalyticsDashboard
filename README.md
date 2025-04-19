@@ -70,6 +70,18 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 
 # Learn More
 
+
+
+
+
+<img width="422" alt="Screenshot 2025-04-20 at 12 45 08 AM" src="https://github.com/user-attachments/assets/73ba8f6c-4cfb-41b0-acb4-3369ec561d7a" />
+<img width="420" alt="Screenshot 2025-04-20 at 12 45 30 AM" src="https://github.com/user-attachments/assets/090d91a4-6ecd-481b-94ea-beb693e189a1" />
+<img width="406" alt="Screenshot 2025-04-20 at 12 45 19 AM" src="https://github.com/user-attachments/assets/55aa2bbf-b593-4b00-831c-bf03f4d4b2b5" />
+
+
+
+
+
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
